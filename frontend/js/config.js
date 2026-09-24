@@ -1,4 +1,4 @@
-const API_URL = 'https://to-do-app-a.onrender.com'; // changes made here
+const API_URL = 'https://to-do-app-zx1t.onrender.com'; // changes made here
 const APP_NAME = 'Tasky';
 
 function applyAppName() {
