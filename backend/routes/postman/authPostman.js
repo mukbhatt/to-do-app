@@ -11,7 +11,7 @@ function normaliseEmail(email) {
   let userEmail = '';
 
   if (typeof email === 'string') {
-    userEmail = email.trim().toLowerCase(); // ___Ravi.Brooks@gmail.com | ravi.brooks@gmail.com
+    userEmail = email.trim().toLowerCase(); // ___mr.mukbhatt@gmail.com | mr.mukbhatt@gmail.com
   }
 
   return userEmail;
